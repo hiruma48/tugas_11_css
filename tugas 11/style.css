@@ -1,0 +1,24 @@
+ul{
+    height: 30px;
+    background-color: black;
+    column-width: 50px;
+}
+.menu{
+    color: white;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+}
+.span{
+    column-span: all;
+}
+.p1,.p2, .p3{
+    height: 310px;
+    column-width: 400px;
+    column-fill:auto;
+    column-gap: 50px;
+    column-rule: 5px double black;
+}
